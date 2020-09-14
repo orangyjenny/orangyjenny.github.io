@@ -129,9 +129,11 @@ ul li {
 	transform: translateY(-25%);
 }
 
-#header .logogif {
+.logogif {
 	/* width: 10%; */
-	height: 85%;
+	/* height: 10%; */
+	max-height: 65px;
+	max-width: 65px;
 	/* transform: translateY(-25%); */
 	/* float: left; */
 }
